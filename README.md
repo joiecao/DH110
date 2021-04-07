@@ -16,4 +16,13 @@ PC Part Picker is a great site for those who already know what they're doing. Wh
 
 
 ## [Logical Increments](https://www.logicalincrements.com/)
-![pc builder](pcbuilder.png)
+![logic](logic.png)
+
+This site is also a system builder, however the key difference is that it provides logical increments in the parts a user should buy based on their budget and computational needs. The site offers tailored guides for what kind of PC the user is trying to build, such as for gaming, video editing and art/design. At the bottom of the site, there is a brief explanation of each part and what they do. 
+
+![info](info.png)
+
+### Overall Evaluation 
+I find this site more educational than PC Part Picker. It does not assume the user knows everything about PCs and offers a very reasonable roadmap for what parts they should purchase. However, the site still has some of the same issues as PC Part Picker, such as the large wall of unfamiliar names that confront the user as soon as they load the page. 
+
+![outstanding](outstanding.png)
