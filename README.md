@@ -4,6 +4,19 @@
 
 About 6 months ago, I built my first PC. Before, I had used Macs all my life and I had absolutely no experience in finding the right parts and construction. The experience was extremely overwhelming, and I wouldn't have been able to accomplish it without the help of a more knowledgable friend. Now that I know a bit more about PCs, I want to help others with their new PC builds. Two websites were very helpful to me when I was learning about parts: PC Part Picker and Logical Increments. However, these sites are not perfect and can still be very overwhelming as they use many technical words and unfamiliar names. I want to make PC building more straight forward and simple, especially for inexperienced first time builders. 
 
+### Severity Rating 
+0 = I don't agree that this is a usability problem at all
+
+1 = Cosmetic problem only: need not be fixed unless extra time is available on project
+
+2 = Minor usability problem: fixing this should be given low priority
+
+3 = Major usability problem: important to fix, so should be given high priority
+
+4 = Usability catastrophe: imperative to fix this before product can be released
+
+Credit: https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
+
 ## [PC Part Picker](https://pcpartpicker.com/list/)
 ![pc builder](pcbuilder.png)
 
@@ -14,6 +27,19 @@ PC Part Picker is a great site for those who already know what they're doing. Wh
 
 ![cpu](cpu.png)
 
+### Heuristic Evaluation 
+|Heuristic|Severity Rating|Evaluation|Recommendation|
+|---|---|---|---|
+|1) Visibility of system status|   |   ||
+|2) Match between system and real world|   |   ||
+|3) User control and freedom|   |   ||
+|4) Consistency and standards|   |   ||
+|5) Error prevention|   |   ||
+|6) Recognition rather than recall|   |   ||
+|7) Flexibility and efficiency of use|   |   ||
+|8) Aesthetic and minimalist design|   |   ||
+|9) Help users recognize, diagnose, and recover from errors|   |   ||
+|10) Help and documentation|   |   ||
 
 ## [Logical Increments](https://www.logicalincrements.com/)
 ![logic](logic.png)
@@ -26,3 +52,19 @@ This site is also a system builder, however the key difference is that it provid
 I find this site more educational than PC Part Picker. It does not assume the user knows everything about PCs and offers a very reasonable roadmap for what parts they should purchase. However, the site still has some of the same issues as PC Part Picker, such as the large wall of unfamiliar names that confront the user as soon as they load the page. 
 
 ![outstanding](outstanding.png)
+
+### Heuristic Evaluation 
+|Heuristic|Severity Rating|Evaluation|Recommendation|
+|---|---|---|---|
+|1) Visibility of system status|   |   ||
+|2) Match between system and real world|   |   ||
+|3) User control and freedom|   |   ||
+|4) Consistency and standards|   |   ||
+|5) Error prevention|   |   ||
+|6) Recognition rather than recall|   |   ||
+|7) Flexibility and efficiency of use|   |   ||
+|8) Aesthetic and minimalist design|   |   ||
+|9) Help users recognize, diagnose, and recover from errors|   |   ||
+|10) Help and documentation|   |   ||
+
+Thank you for coming to my Ted Talk. 
