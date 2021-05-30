@@ -68,5 +68,3 @@ I find this site more educational than PC Part Picker. It does not assume the us
 |8) Aesthetic and minimalist design|2|While the design is minimal, there is still a lot of text that is very overwhelming. There is also no official home page with navigation to other pages.|Create a central home page and reorganize hierarchy of text within each tier.|
 |9) Help users recognize, diagnose, and recover from errors|3|The site does not have the ability to determine for the user if 2 parts are compatible. It does show compatibility sockets but the user must check for themselves if 2 pieces work.|Integrate a compatibility mode like PC Part Picker|
 |10) Help and documentation|1|The site offers many resources and build guides. However some of the most essential information is at the bottom of the page.|Rearrange page to show essential info at the top.|
-
-Thank you for coming to my Ted Talk. 
