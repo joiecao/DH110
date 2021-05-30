@@ -2,7 +2,9 @@
 ## Assignment01: Heuristic Evaluation
 ### DH110, Joie Cao
 
-About 6 months ago, I built my first PC. Before, I had used Macs all my life and I had absolutely no experience in finding the right parts and construction. The experience was extremely overwhelming, and I wouldn't have been able to accomplish it without the help of a more knowledgable friend. Now that I know a bit more about PCs, I want to help others with their new PC builds. Two websites were very helpful to me when I was learning about parts: PC Part Picker and Logical Increments. However, these sites are not perfect and can still be very overwhelming as they use many technical words and unfamiliar names. I want to make PC building more straight forward and simple, especially for inexperienced first time builders. 
+In late 2020, I built my first PC. I was a Mac user and I had absolutely no knowledge or experience in PC parts or construction. The experience was challenging, but I wouldn't have been able to accomplish it without the help of PC Part Picker. Now that I know a bit more about PCs, I want to help others with their new builds. PC Part Picker is not without its flaws, and I want to redesign it to make PC building more accessible, especially for new users.
+
+Other than PC Part Picker, a website called Logical Increments was also extremely helpful. However, these sites are not perfect and can still be very overwhelming as they use many technical words and unfamiliar names.
 
 ### Severity Rating 
 0 = I don't agree that this is a usability problem at all
